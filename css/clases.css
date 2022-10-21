@@ -1,0 +1,174 @@
+.caja1{
+    display: inline-flex;
+    height: 200px;
+    position: relative;
+    left: 40%;
+    bottom: 250px;
+}
+
+.caja2{
+    display: inline-flex;
+    height: 230px;
+    margin-bottom: 10px;
+    position: relative;
+    left: 15%;
+    bottom: 10px;
+}
+
+.caja3{
+    display: inline-flex;
+    height: 630px;
+    margin-bottom: 35px;
+    position: relative;
+    left: 15%;
+    bottom: 10px;
+}
+
+.caja3 img{
+    background-color: #8ed685;
+    -webkit-border-radius:5px ;
+    -moz-border-radius: 5px ;
+    border-radius: 5px;
+    padding: 30px 15px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.caja4{
+    display: inline-flex;
+    height: 80px;
+    position: relative;
+    bottom: 75px;
+    left: -23%;
+}
+
+.caja5{
+    display: inline-flex;
+    height: 80px;
+    position: relative;
+    right: 36%;
+    bottom: 50px;
+}
+
+.caja5 img{
+    position: relative;
+    left: 15%;
+    top: 30px;
+}
+
+
+.caja6{
+    display: inline-flex;
+    height: 80px;
+    position: relative;
+    bottom: 75px;
+    left: -23%;
+}
+
+.caja7{
+    display: inline-flex;
+    height: 80px;
+    position: relative;
+    right: 36%;
+    bottom: 50px;
+}
+
+.caja7 img{
+    position: relative;
+    left: 15%;
+    top: 30px;
+}
+
+.caja8, .caja9, .caja10{
+    display: inline-flex;
+    height: 100px;
+    width: 100px;
+    margin-left: 10px;
+    position: relative;
+    bottom: 260px;
+    left: 65%;
+}
+
+.caja12{
+    display: inline-flex;
+    margin-top: 20px;
+    position: relative;
+    bottom: 100px;
+    right: 15%;
+}
+
+
+.caja13{
+    display: inline-flex;
+    margin-top: 20px;
+    margin-left: 10px;
+    position: relative;
+    left: 5%;
+}
+
+.caja14{
+    display: inline-flex;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    position: relative;
+    left: 10%;
+
+}
+
+.caja15{
+    display: inline-flex;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 30px;
+    position: relative;
+    left: 30%;
+}
+
+.caja13 p, .caja14 p, .caja15 p{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #8ed685;
+    width: 300px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.animal1, .animal2, .animal3, .animal4, .animal5, .animal6, .animal7, .animal8{
+    display: inline-flex;
+    margin-left: 30px;
+    height: 240px;
+    width: 40%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    left: 7%;
+}
+
+.animal1, .animal2{
+    height: 200px;
+    width: 40%; 
+}
+    
+.animal6{
+    height: 250px;
+    width: 40%; 
+}
+
+.animal7{
+    height: 210px;
+    width: 40%; 
+}
+
+.animal8{
+    height: 230px;
+    width: 40%; 
+}
+
+.animal1 p, .animal2 p, .animal3 p, .animal4 p, .animal5 p, .animal6 p, .animal7 p, .animal8 p{
+    margin-left: 10px;
+}
